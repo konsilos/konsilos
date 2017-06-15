@@ -23,16 +23,14 @@ ecmascript@0.8.0
 es5-shim@4.6.15
 iron:router
 aldeed:autoform
-aldeed:collection2
 semantic:ui
 useraccounts:semantic-ui
 useraccounts:iron-routing
 zimme:active-route
-fabienb4:autoform-semantic-ui
 momentjs:moment
 sarasate:semantic-ui-datetimepicker
 jorisbontje:vis
-tap:i18n
+lfilho:i18n
 softwarerero:accounts-t9n
 gadicohen:headers
 juliancwirko:postcss
@@ -42,3 +40,5 @@ force-ssl@1.0.14
 audit-argument-checks@1.0.7
 reywood:iron-router-ga
 dynamic-import
+aldeed:collection2-core@2.0.0
+lfilho:autoform-semantic-ui

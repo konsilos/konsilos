@@ -1,3 +1,4 @@
+import SimpleSchema from 'simpl-schema'
 import momentHelper from '../util/momentHelper'
 
 // Translate function helper:
