@@ -1,3 +1,7 @@
+if (Meteor.isClient) {
+    Router.plugin('reywood:iron-router-ga');
+}
+
 Router.configure({
     trackPageView: true,
     layoutTemplate: 'ApplicationLayout',
